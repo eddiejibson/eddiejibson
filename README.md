@@ -7,6 +7,7 @@ I'm building lots of other exciting projects. Visit [my website](https://jibson.
 📫 How to reach me:
 
 Email: eddie@jibson.me
+
 Website: [jibson.me](https://jibson.me)
 
 
