@@ -8,6 +8,8 @@ I'm building lots of other exciting projects. Visit [my website](https://jibson.
 
 Email: eddie@jibson.me
 
+Twitter: [@eddiejibson](https://twitter.com/eddiejibson)
+
 Website: [jibson.me](https://jibson.me)
 
 
