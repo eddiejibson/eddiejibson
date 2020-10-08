@@ -12,6 +12,8 @@ Twitter: [@eddiejibson](https://twitter.com/eddiejibson)
 
 Website: [jibson.me](https://jibson.me)
 
+Mastodon: [@jibson@mastodon.social ](https://mastodon.social/@jibson)
+
 
 Oh, and by the way, I'm always open to collaborate or help with anyone's open source project, reach out if you have something that you think would interest me.
 
