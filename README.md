@@ -6,11 +6,11 @@ I'm building lots of other exciting projects. Visit [my website](https://jibson.
 
 📫 How to reach me:
 
-Email: eddie@jibson.me
+Email: eddie@jibson.co
 
 Twitter: [@eddiejibson](https://twitter.com/eddiejibson)
 
-Website: [jibson.me](https://jibson.me)
+Website: [jibson.co](https://jibson.co)
 
 Mastodon: [@jibson@mastodon.social ](https://mastodon.social/@jibson)
 
