@@ -18,5 +18,3 @@ Mastodon: [@jibson@mastodon.social ](https://mastodon.social/@jibson)
 Oh, and by the way, I'm always open to collaborate or help with anyone's open source project, reach out if you have something that you think would interest me.
 
 [![eddiejibson's github stats](https://github-readme-stats.vercel.app/api?username=eddiejibson&count_private=true&show_icons=true&theme=tokyonight&hide=stars)](https://github.com/eddiejibson)
-
-These stats are not as impressive as they once would've been - I tend not to use GitHub as much anymore, I get on better with GitLab and Bitbucket (however, see previous year's commits if you're intrigued how active I used to be here)
